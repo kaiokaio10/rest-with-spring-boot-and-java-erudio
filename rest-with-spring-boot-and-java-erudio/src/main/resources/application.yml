@@ -13,5 +13,5 @@ spring:
         dialect: org.hibernate.dialect.MySQL8Dialect
     show-sql: false
   flyway:
-    baseline-on-migrate: true
+    baseline-on-migrate: false
  
